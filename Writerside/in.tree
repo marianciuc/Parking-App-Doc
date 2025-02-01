@@ -6,6 +6,16 @@
                  name="Hany Parking API"
                  start-page="auth.md">
 
+    <toc-element topic="Email-Verification.md"/>
+    <toc-element topic="Drivers-Manipulations.md"/>
+    <toc-element topic="Users-Manipulations.md"/>
+    <toc-element topic="JWT-Public-Key.md"/>
+    <toc-element topic="Notifications.md"/>
+    <toc-element topic="Car-Management.md"/>
+    <toc-element topic="Vehicle-Ownership-Management.md"/>
+    <toc-element topic="Parking-Owners-Management.md"/>
+    <toc-element topic="Parking-Owner-Registration-Proccess.md"/>
+    <toc-element topic="User-Management.md"/>
     <toc-element topic="API-keys.md"/>
     <toc-element topic="Parking-Creation-Process.md"/>
     <toc-element topic="auth.md"/>
